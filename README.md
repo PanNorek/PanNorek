@@ -1,4 +1,3 @@
-# RNojek
 
 ## Hi there 👋
 
