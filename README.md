@@ -16,6 +16,7 @@ I am intrested in software engineering and artifical inteligence, especially con
 - [x] Python (numpy, python, selenium, bs4, seaborn, keras, nltk)
 - [x] R lang (tidyverse, caret, shiny, markdown)
 - [x] SQL (MS SQL Server, Postgresql 14 (learning))
+- [x] Linux
 - [x] C# (Entity Framework, Linq)
-- [x] C
+- [x] C/C++
 - [ ] PyTorch
