@@ -17,6 +17,6 @@ I am intrested in software engineering and artifical inteligence, especially con
 - [x] R lang (tidyverse, caret, shiny, markdown)
 - [x] SQL (MS SQL Server, Postgresql 14 (learning))
 - [x] Linux
-- [x] C# (Entity Framework, Linq)
+- [x] C# (Entity Framework Core, Blazor, ASP .NET Core Web API)
 - [x] C/C++
 - [ ] PyTorch
