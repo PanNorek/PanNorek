@@ -6,8 +6,7 @@ I am intrested in software engineering and artifical inteligence, especially con
 
 ## I am currently working on
 
-1. [ ] HSProject - Twitch Chat Logs Hate Speech Detector - Chrome Extension to blur inappropriate chat logs. NLP model will be trained on some multilingual dataset I have found in the internet. (technology used: PyTorch)
-2. [ ] POLHATE - a dataset composed of polish tweets with labels whether it is a hate speech/offensive language or not. It will be used to create models to recognize bad habits in the polish part of internet. 
+1. [ ] POLHATE - a dataset composed of polish tweets with labels whether it is a hate speech/offensive language or not. It will be used to create models to recognize bad habits in the polish part of internet. 
 
 ### Technologies I am not unfamiliar with
 
