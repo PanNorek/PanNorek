@@ -25,6 +25,7 @@ I am intrested in software engineering and artifical inteligence, especially con
 ## 📧 Info
 * [![](https://img.shields.io/twitter/url?label=/rafal-nojek/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2in%2rafaln97%2F)](https://www.linkedin.com/in/rafaln97/)
 * [Kaggle](https://www.kaggle.com/rafanojek)
-* [Hackerrank](https://www.hackerrank.com/dornier1997)
+* [Hackerrank](https://www.hackerrank.com/dornier1997) (rank 18624 of 2117738 in Python)
+
 
 
