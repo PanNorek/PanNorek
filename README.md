@@ -8,7 +8,8 @@ I am intrested in software engineering and artifical inteligence, especially con
 
 1. [ ] [POLHATE](https://github.com/PanNorek/POLHATE-project) - a dataset composed of polish tweets with labels whether it is a hate speech/offensive language or not. It will be used to create models to recognize bad habits in the polish part of internet. 
 
-2. [ ] ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
+2. [x] ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/). 
+Check out the [dashboard page](https://nlp-disaster-tweets.herokuapp.com/).
 
 ### Technologies I am not unfamiliar with
 
